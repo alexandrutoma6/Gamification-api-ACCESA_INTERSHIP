@@ -5,6 +5,7 @@ The tools used:
 Spring Boot framework to create the REST API
 Maven to manage the project dependencies and build application
 PostgreSQL for database, to o store and retrieve data from your REST API
+Docker to build, package, and deploy applications in isolated containers
 Postman for testing
 
 The application can send POST mappings to create a user, a quest or an assignment (the assignment needs a user and a quest to be created)
