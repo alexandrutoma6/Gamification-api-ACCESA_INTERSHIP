@@ -5,7 +5,7 @@ This is an API for a gamification project
 
 1. Spring Boot framework to create the REST API.	
 2. Maven to manage the project dependencies and build application.	
-3. PostgreSQL for database, to o store and retrieve data from your REST API.	
+3. PostgreSQL for database, to store and retrieve data from your REST API.	
 4. Docker to build, package, and deploy applications in isolated containers.	
 5. Postman for testing.	
 
